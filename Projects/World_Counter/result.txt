@@ -1,0 +1,25 @@
+Total Number of words in the file ==> 110 
+Total Number of unique words in the file ==> 21 
+Unique Words with number of times the words repeating are listed below 
+
+knee - 15 
+sea - 12 
+chop - 12 
+see - 9 
+the - 7 
+to - 6 
+he - 6 
+could - 6 
+a - 3 
+sailor - 3 
+went - 3 
+what - 3 
+but - 3 
+all - 3 
+that - 3 
+was - 3 
+bottom - 3 
+of - 3 
+deep - 3 
+blue - 3 
+rhymes - 1 
