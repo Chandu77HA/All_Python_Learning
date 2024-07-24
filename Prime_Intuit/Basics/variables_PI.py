@@ -126,7 +126,7 @@ elif b >= a and b >= c:
 else:
     print("Max number is : ", c)
 
-    # maximum of three numbers and in descending order
+# maximum of three numbers and in descending order
 
 a = int(input("Enter number1 : "))
 b = int(input("Enter number2 : "))
@@ -196,15 +196,15 @@ for i in range(repeat):
     r = float(input("enter the radius is cms : "))
     # area of the circle:
     area = pi*r**2
-    print("area of the circle with : ", r, "is", area)
+    print("area of the circle with radius: ", r, "is", area)
     # perimeter of the circle:
     per = 2 * pi * r
-    print("perimeter of the circle with : ", r, "is", per)
+    print("perimeter of the circle with radius: ", r, "is", per)
     # volume of the sphere:
     vol = (4/3)*(pi*r**3)
-    print("volume of the sphere with : ", r, "is", vol)
+    print("volume of the sphere with radius: ", r, "is", vol)
     surf = 4 * pi * r**2
-    print("surface of the circle with : ", r, "is", surf)
+    print("surface of the circle with radius: ", r, "is", surf)
 a = (2, 3, 4, 5)
 b = [6, 7, 8, 9]
 
